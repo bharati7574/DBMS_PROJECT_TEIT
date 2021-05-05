@@ -8,5 +8,5 @@ group members
 
 Bharati Rajendra Shikhare           
 Akshata Pandurang Borkar        
-Shaileja Venkatrajam Shriramula     
+Shailaja Venkatrajam Shriramula     
 Radha Dyaneshwar Lokhande       
